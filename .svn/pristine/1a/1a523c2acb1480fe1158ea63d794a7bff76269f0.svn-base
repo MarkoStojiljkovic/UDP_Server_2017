@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 da0ece30e2be679675e425593e29f459529a44ff Marko <Marko> 1474013845 +0200	commit (initial): fist commmit for backup
+da0ece30e2be679675e425593e29f459529a44ff bbe99ba28d9463fcaed8b7582ed32e445496312e Marko <Marko> 1474036149 +0200	commit: Added... something
+bbe99ba28d9463fcaed8b7582ed32e445496312e 2d8e4bb8611e7d4382efe061162affddb3dffdce Marko <Marko> 1474355734 +0200	commit: added text file logging
+2d8e4bb8611e7d4382efe061162affddb3dffdce 93a53ffbb77204b346f5b9b2291cbf85c99114c0 Marko <Marko> 1474540184 +0200	commit: minor changes, working version before big change
+93a53ffbb77204b346f5b9b2291cbf85c99114c0 9e2c653583d3bf51ae1a75fcb1aeb7d68954d71c Marko <Marko> 1475503948 +0200	commit: Added alternative, simpler version of UDP server use
+9e2c653583d3bf51ae1a75fcb1aeb7d68954d71c dede8a6f6f108d73118cefce083ea7673e83b619 Marko <Marko> 1476089755 +0200	commit: backup before adding button for manual sending UDP messages
+dede8a6f6f108d73118cefce083ea7673e83b619 52e2b784546498450bcc82d38ae6706a22c0a3a0 Marko <Marko> 1478099321 +0100	commit: version before NET framework change
+52e2b784546498450bcc82d38ae6706a22c0a3a0 1ec1879df9b8a31592a8f07da415ae10d81b07ea Marko <Marko> 1481279464 +0100	commit: Server now extract IP from database

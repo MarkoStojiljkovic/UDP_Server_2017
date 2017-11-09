@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+    <configSections>
+        <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+            <section name="UDPServer.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+        </sectionGroup>
+    </configSections>
+    <startup> 
+        
+    <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.0"/></startup>
+    <userSettings>
+        <UDPServer.Properties.Settings>
+            <setting name="FormMainListeningPort" serializeAs="String">
+                <value>4000</value>
+            </setting>
+            <setting name="FormMainSendingPort" serializeAs="String">
+                <value>4001</value>
+            </setting>
+            <setting name="FormManualMAC" serializeAs="String">
+                <value>00:01:02:03:04:05</value>
+            </setting>
+            <setting name="FormManualIP" serializeAs="String">
+                <value>192.168.1.1</value>
+            </setting>
+            <setting name="FormManualLocation" serializeAs="String">
+                <value>1</value>
+            </setting>
+        </UDPServer.Properties.Settings>
+    </userSettings>
+</configuration>
